@@ -18,7 +18,7 @@ const Products = () => {
                     <div class="info-card">
                         <h4>Arena calabaza carbón 25kg</h4>
                         <img width="250" height="200" src={Calabaza01}></img>
-                        <p class="precio"> <span class="u-pull-right ">$60.000</span></p>
+                        <p class="precio"> <span class="u-pull-right ">$66.000</span></p>
                     </div>
                 </div>
             </div>
