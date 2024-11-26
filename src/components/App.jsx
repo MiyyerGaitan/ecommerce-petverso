@@ -3,6 +3,7 @@ import {BrowserRouter, NavLink} from "react-router-dom";
 import {GlobalStyle, Menu, Header, Page, Hamburger} from './UiComponents'
 import { Feather, ShoppingCart } from 'react-feather';
 import Products from './Products';
+import Footer from './Footer';
 
 function App() {
 
@@ -22,6 +23,7 @@ function App() {
     <Page>
         <Products />
     </Page>
+    <Footer />
     </>;
 }
 
